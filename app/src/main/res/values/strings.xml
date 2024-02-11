@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">오독오독</string>
+
+    <!--StartScreen-->
+    <string name="ss_loading">오늘의 독서를 시작해 볼까요?</string>
+    <string name="ss_donation">앱에서 발생하는 수익은 전액 취약계층 아동에게 기부됩니다.</string>
+    <string name="ss_start">시작하기</string>
+
+    <!--UserScreen-->
+    <string name="us_intro_title0">환영해요!</string>
+    <string name="us_intro_title1">오독오독 앱을 처음 설치해주셨군요?</string>
+    <string name="us_intro_sub_title1">도서 추천을 위한, 간단한 설문 부탁드려요</string>
+
+    <string name="us_intro_title2">안녕하세요!</string>
+    <string name="us_intro_title3">아직 설문을 완료하지 않으셨군요?</string>
+
+    <string name="us_action0">안녕하세요! 저도 반가워요!</string>
+    <string name="us_action1">안녕하세요! 다시 진행할게요.</string>
+
+    <string name="us_age_title">연령대를 선택해 주세요</string>
+    <string name="us_age_sub_title">동일 연령대의 인기도서를 추천해 드릴께요</string>
+    <string name="us_sex_title">성별을 선택해 주세요</string>
+    <string name="us_sex_sub_title">동일 성별의 인기도서를 추천해 드릴께요</string>
+    <string name="us_region_title">지역을 선택해 주세요</string>
+    <string name="us_region_sub_title">선택한 지역을 기반으로 도서관을 추천 드릴께요</string>
+    <string name="us_library_title">도서관을 선택해 주세요</string>
+    <string name="us_library_sub_title">선택한 도서관의 도서 대출관련 정보를 제공해 드릴께요</string>
+
+    <!--DetailScreen-->
+    <string name="ds_detail">상세보기</string>
+    <string name="ds_preview">미리보기</string>
+    <string name="ds_noInternet">인터넷 브라우저를 설치 후 이용해주세요</string>
+
+    <!--SearchScreen-->
+    <string name="ss_search">검색</string>
+
+    <!--CheckWifi-->
+    <string name="cw_wifi">네트워크 연결을 확인해주세요</string>
+</resources>
