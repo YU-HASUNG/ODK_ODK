@@ -1,4 +1,4 @@
-https://play.google.com/store/apps/details?id=leopardcat.studio.odkodk&hl=ko-KR<br>
+https://play.google.com/store/apps/details?id=leopardcat.studio.odkodk&hl=ko-KR<br><br>
 [개발기록]<br>
 YU-HASUNG [2312026] release 1.0.0 2023-12-26 오후 9:57<br>
 YU-HASUNG [2312026] 광고설정, 앱 UI 설정 2023-12-26 오후 9:55<br>
